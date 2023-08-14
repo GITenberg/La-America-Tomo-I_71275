@@ -1,0 +1,40 @@
+_repo: La-America-Tomo-I_71275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lastarria, José Victorino
+    aliases:
+    - Lastarria, J. V. (José Victorino)
+    - Lastarria Santander, José Victorino
+    - Lastarria, Jose Victorino
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '43536'
+    url: http://www.gutenberg.org/2009/agents/43536
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Victorino_Lastarria
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Victorino_Lastarria
+description: ''
+gutenberg_issued: '2023-07-25'
+identifiers:
+  gutenberg: '71275'
+language: es
+pgterms:marc905: 20070407113620lastarria
+pgterms:marc906: '1909'
+pgterms:marc907: ES
+production_note: Adrian Mastronardi, Andrés V. Galia and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aSpain :$bEditorial América, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin America -- History'
+- !lcsh 'Europe -- Politics and government'
+- !lcsh 'Latin America -- Politics and government'
+- !lcsh 'America -- Politics and government'
+- !lcc 'E011'
+- GITenberg
+title: La América, Tomo I
+url: http://www.gutenberg.org/ebooks/71275
